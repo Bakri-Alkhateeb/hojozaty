@@ -2,7 +2,7 @@
 
 An app to help with restaurants, cafes and hotels reservations
 
-**check the hojozaty_api repo for the api associated with this project**
+**check the hojozaty-api repo for the api associated with this project**
 
 ## Getting Started
 
